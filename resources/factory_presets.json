@@ -1,0 +1,4949 @@
+[
+ {
+  "name": "Default Setting",
+  "cat": "Default",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {},
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Default Setting"
+   }
+  }
+ },
+ {
+  "name": "Gentle Tape Master",
+  "cat": "Mastering",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "b1_style": 5,
+    "b1_drive": 9,
+    "b1_level": -0.5,
+    "linphase": 1,
+    "hq": 1
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Gentle Tape Master"
+   }
+  }
+ },
+ {
+  "name": "Multiband Warmth",
+  "cat": "Mastering",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "nbands": 3,
+    "xf1": 200,
+    "xf2": 4000,
+    "linphase": 1,
+    "hq": 1,
+    "b1_style": 19,
+    "b1_drive": 10,
+    "b1_level": -0.5,
+    "b2_style": 0,
+    "b2_drive": 8,
+    "b2_level": -0.5,
+    "b3_style": 5,
+    "b3_drive": 6,
+    "b3_level": -0.3
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Multiband Warmth"
+   }
+  }
+ },
+ {
+  "name": "Air Exciter",
+  "cat": "Mastering",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "nbands": 2,
+    "xf1": 7000,
+    "hq": 1,
+    "b1_style": 9,
+    "b1_drive": 0,
+    "b1_mix": 0,
+    "b2_style": 1,
+    "b2_drive": 18,
+    "b2_mix": 35,
+    "b2_pres": 1.5
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Air Exciter"
+   }
+  }
+ },
+ {
+  "name": "Glue Bus",
+  "cat": "Mix Bus",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "b1_style": 6,
+    "b1_drive": 10,
+    "b1_dyn": 20,
+    "b1_mix": 80,
+    "b1_level": -1
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Glue Bus"
+   }
+  }
+ },
+ {
+  "name": "Console Drive",
+  "cat": "Mix Bus",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "b1_style": 20,
+    "b1_drive": 12,
+    "b1_mix": 100,
+    "b1_level": -1.5,
+    "b1_treb": -0.5
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Console Drive"
+   }
+  }
+ },
+ {
+  "name": "Drum Crush",
+  "cat": "Drums",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "nbands": 2,
+    "xf1": 150,
+    "b1_style": 20,
+    "b1_drive": 14,
+    "b1_level": -1,
+    "b2_style": 11,
+    "b2_drive": 22,
+    "b2_dyn": 40,
+    "b2_mix": 70,
+    "b2_level": -2
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Drum Crush"
+   }
+  }
+ },
+ {
+  "name": "Transient Drive",
+  "cat": "Drums",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "b1_style": 3,
+    "b1_drive": 6,
+    "b1_level": -1,
+    "f1_att": 0.3,
+    "f1_rel": 60
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 1,
+      "trig": 0,
+      "mode": 1
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [
+     {
+      "on": 1,
+      "src": 9,
+      "tgt": 14,
+      "amt": 0.45,
+      "inv": 0
+     }
+    ],
+    "order": [
+     "ef1"
+    ],
+    "names": {
+     "ef1": "Transients"
+    },
+    "presetName": "Transient Drive"
+   }
+  }
+ },
+ {
+  "name": "Bass Growl",
+  "cat": "Bass",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "nbands": 2,
+    "xf1": 180,
+    "b1_style": 0,
+    "b1_drive": 4,
+    "b2_style": 14,
+    "b2_drive": 24,
+    "b2_mix": 60,
+    "b2_level": -3
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Bass Growl"
+   }
+  }
+ },
+ {
+  "name": "Sub Saturator",
+  "cat": "Bass",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "nbands": 2,
+    "xf1": 120,
+    "xs1": 3,
+    "b1_style": 21,
+    "b1_drive": 20,
+    "b1_level": -2,
+    "b1_bass": 1,
+    "b2_style": 5,
+    "b2_drive": 0,
+    "b2_mix": 0
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Sub Saturator"
+   }
+  }
+ },
+ {
+  "name": "Vocal Presence",
+  "cat": "Vocals",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "nbands": 3,
+    "xf1": 300,
+    "xf2": 3000,
+    "b1_style": 5,
+    "b1_drive": 0,
+    "b1_mix": 0,
+    "b2_style": 1,
+    "b2_drive": 10,
+    "b2_level": -1,
+    "b3_style": 5,
+    "b3_drive": 8,
+    "b3_pres": 2,
+    "b3_level": -0.5
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Vocal Presence"
+   }
+  }
+ },
+ {
+  "name": "Plexi Crunch",
+  "cat": "Guitar",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "b1_style": 14,
+    "b1_drive": 22,
+    "b1_level": -4,
+    "b1_mid": 1.5
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Plexi Crunch"
+   }
+  }
+ },
+ {
+  "name": "Lead Screamer",
+  "cat": "Guitar",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "b1_style": 18,
+    "b1_drive": 28,
+    "b1_level": -6,
+    "b1_pres": 2,
+    "hq": 1
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Lead Screamer"
+   }
+  }
+ },
+ {
+  "name": "Clean Combo",
+  "cat": "Guitar",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "b1_style": 12,
+    "b1_drive": 18,
+    "b1_level": -2,
+    "b1_treb": 1
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Clean Combo"
+   }
+  }
+ },
+ {
+  "name": "Analog Warmth",
+  "cat": "Synth",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "b1_style": 2,
+    "b1_drive": 12,
+    "b1_fba": 15,
+    "b1_fbf": 800,
+    "b1_level": -1.5
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Analog Warmth"
+   }
+  }
+ },
+ {
+  "name": "Wobble Smudge",
+  "cat": "Creative",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "b1_style": 22,
+    "b1_drive": 30,
+    "b1_level": -2,
+    "x1_div": 6
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 1,
+      "sync": 1,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [
+     {
+      "on": 1,
+      "src": 1,
+      "tgt": 14,
+      "amt": 0.6,
+      "inv": 0
+     }
+    ],
+    "order": [
+     "xlfo1"
+    ],
+    "names": {},
+    "presetName": "Wobble Smudge"
+   }
+  }
+ },
+ {
+  "name": "Broken Radio",
+  "cat": "Creative",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "nbands": 3,
+    "xf1": 500,
+    "xf2": 3500,
+    "b1_style": 0,
+    "b1_drive": 0,
+    "b1_level": -60,
+    "b2_style": 26,
+    "b2_drive": 26,
+    "b2_mix": 80,
+    "b2_level": 0,
+    "b2_mid": 3,
+    "b3_style": 4,
+    "b3_drive": 20,
+    "b3_level": -12
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Broken Radio"
+   }
+  }
+ },
+ {
+  "name": "Fold Sweep",
+  "cat": "Creative",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "b1_style": 24,
+    "b1_drive": 18,
+    "b1_level": -3,
+    "x1_rate": 0.25
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 1,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 1,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [
+     {
+      "on": 1,
+      "src": 1,
+      "tgt": 14,
+      "amt": 0.35,
+      "inv": 0
+     },
+     {
+      "on": 1,
+      "src": 17,
+      "tgt": 14,
+      "amt": 0.5,
+      "inv": 0
+     },
+     {
+      "on": 1,
+      "src": 18,
+      "tgt": 10,
+      "amt": 0.5,
+      "inv": 0
+     }
+    ],
+    "order": [
+     "xy1",
+     "xlfo1"
+    ],
+    "names": {
+     "xy1": "Fold/Mix"
+    },
+    "presetName": "Fold Sweep"
+   }
+  }
+ },
+ {
+  "name": "Octave Down Fuzz",
+  "cat": "Creative",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "b1_style": 23,
+    "b1_drive": 30,
+    "b1_dpan": -20,
+    "b1_level": -4
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [],
+    "order": [],
+    "names": {},
+    "presetName": "Octave Down Fuzz"
+   }
+  }
+ },
+ {
+  "name": "Ducking Grit",
+  "cat": "Modulation",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "b1_style": 11,
+    "b1_drive": 24,
+    "b1_level": -3,
+    "e1_att": 2,
+    "e1_dec": 120,
+    "e1_sus": 30,
+    "e1_rel": 250,
+    "e1_thr": -30
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 1,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [
+     {
+      "on": 1,
+      "src": 5,
+      "tgt": 10,
+      "amt": 0.8,
+      "inv": 1
+     }
+    ],
+    "order": [
+     "eg1"
+    ],
+    "names": {
+     "eg1": "Ducker"
+    },
+    "presetName": "Ducking Grit"
+   }
+  }
+ },
+ {
+  "name": "Arp Feedback",
+  "cat": "Modulation",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "b1_style": 2,
+    "b1_drive": 10,
+    "b1_fba": 55,
+    "b1_fbf": 440,
+    "b1_level": -3,
+    "x1_div": 7
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 1,
+      "sync": 1,
+      "retrig": 0,
+      "snap": 1,
+      "steps": [
+       {
+        "v": 0,
+        "r": 0,
+        "c": 0,
+        "g": 0
+       },
+       {
+        "v": 0.25,
+        "r": 0,
+        "c": 0,
+        "g": 0
+       },
+       {
+        "v": 0.5833,
+        "r": 0,
+        "c": 0,
+        "g": 0
+       },
+       {
+        "v": 0.25,
+        "r": 0,
+        "c": 0,
+        "g": 0
+       },
+       {
+        "v": 1,
+        "r": 0,
+        "c": 0,
+        "g": 0
+       },
+       {
+        "v": 0.5833,
+        "r": 0,
+        "c": 0,
+        "g": 0
+       },
+       {
+        "v": 0.25,
+        "r": 0,
+        "c": 0,
+        "g": 0
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 0,
+        "g": 0
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [
+     {
+      "on": 1,
+      "src": 1,
+      "tgt": 12,
+      "amt": 1.0,
+      "inv": 0
+     }
+    ],
+    "order": [
+     "xlfo1"
+    ],
+    "names": {
+     "xlfo1": "Arp"
+    },
+    "presetName": "Arp Feedback"
+   }
+  }
+ },
+ {
+  "name": "XY Performance",
+  "cat": "Modulation",
+  "data": {
+   "format": "satura-preset",
+   "version": 1,
+   "params": {
+    "b1_style": 17,
+    "b1_drive": 16,
+    "b1_level": -3,
+    "b1_mix": 60
+   },
+   "struct": {
+    "xlfo": [
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     },
+     {
+      "active": 0,
+      "sync": 0,
+      "retrig": 0,
+      "snap": 0,
+      "steps": [
+       {
+        "v": 1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       },
+       {
+        "v": -1,
+        "r": 0,
+        "c": 3,
+        "g": 1
+       }
+      ]
+     }
+    ],
+    "eg": [
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "range": 0,
+      "as": 0.3,
+      "ds": 0.5,
+      "rs": 0.5
+     }
+    ],
+    "ef": [
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     },
+     {
+      "active": 0,
+      "trig": 0,
+      "mode": 0
+     }
+    ],
+    "midi": [
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     },
+     {
+      "active": 0,
+      "input": 0,
+      "cc": 1,
+      "curve": 0
+     }
+    ],
+    "xy": [
+     {
+      "active": 1,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 1,
+      "mode": 1,
+      "range": 1
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     },
+     {
+      "active": 0,
+      "mode": 0,
+      "range": 0
+     }
+    ],
+    "slots": [
+     {
+      "on": 1,
+      "src": 17,
+      "tgt": 14,
+      "amt": 0.5,
+      "inv": 0
+     },
+     {
+      "on": 1,
+      "src": 18,
+      "tgt": 10,
+      "amt": 0.5,
+      "inv": 0
+     },
+     {
+      "on": 1,
+      "src": 20,
+      "tgt": 11,
+      "amt": 0.8,
+      "inv": 0
+     }
+    ],
+    "order": [
+     "xy1",
+     "xy2"
+    ],
+    "names": {
+     "xy1": "Drive/Mix",
+     "xy2": "Feedback"
+    },
+    "presetName": "XY Performance"
+   }
+  }
+ }
+]

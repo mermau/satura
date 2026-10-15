@@ -1,0 +1,409 @@
+{
+ "band": [
+  {
+   "name": "Default",
+   "d": {
+    "style": 7,
+    "drive": 6,
+    "mix": 100,
+    "fba": 0,
+    "fbf": 1000,
+    "dyn": 0,
+    "dpan": 0,
+    "bass": 0,
+    "mid": 0,
+    "treb": 0,
+    "pres": 0,
+    "level": 0,
+    "lpan": 0
+   }
+  },
+  {
+   "name": "Glue Tape",
+   "d": {
+    "style": 6,
+    "drive": 9,
+    "mix": 100,
+    "dyn": 15,
+    "level": -1
+   }
+  },
+  {
+   "name": "Silky Tube",
+   "d": {
+    "style": 0,
+    "drive": 12,
+    "mix": 100,
+    "treb": 1.5,
+    "level": -1
+   }
+  },
+  {
+   "name": "Bass Grit",
+   "d": {
+    "style": 20,
+    "drive": 18,
+    "mix": 70,
+    "bass": 2,
+    "level": -2
+   }
+  },
+  {
+   "name": "Crunch Guitar",
+   "d": {
+    "style": 14,
+    "drive": 24,
+    "mix": 100,
+    "mid": 2,
+    "pres": 2,
+    "level": -3
+   }
+  },
+  {
+   "name": "Lo-Fi Crush",
+   "d": {
+    "style": 26,
+    "drive": 30,
+    "mix": 60,
+    "treb": -4,
+    "level": -2
+   }
+  }
+ ],
+ "xlfo": [
+  {
+   "name": "Default",
+   "d": {
+    "steps": [
+     {
+      "v": 1,
+      "r": 0,
+      "c": 3,
+      "g": 1
+     },
+     {
+      "v": -1,
+      "r": 0,
+      "c": 3,
+      "g": 1
+     }
+    ],
+    "p": {
+     "rate": 1,
+     "glide": 0
+    }
+   }
+  },
+  {
+   "name": "Triangle",
+   "d": {
+    "steps": [
+     {
+      "v": 1,
+      "r": 0,
+      "c": 0,
+      "g": 1
+     },
+     {
+      "v": -1,
+      "r": 0,
+      "c": 0,
+      "g": 1
+     }
+    ],
+    "p": {
+     "rate": 1
+    }
+   }
+  },
+  {
+   "name": "Saw Up",
+   "d": {
+    "steps": [
+     {
+      "v": -1,
+      "r": 0,
+      "c": 0,
+      "g": 1
+     },
+     {
+      "v": 1,
+      "r": 0,
+      "c": 0,
+      "g": 0
+     }
+    ],
+    "p": {
+     "rate": 1,
+     "glide": 0
+    }
+   }
+  },
+  {
+   "name": "Square",
+   "d": {
+    "steps": [
+     {
+      "v": 1,
+      "r": 0,
+      "c": 0,
+      "g": 0
+     },
+     {
+      "v": -1,
+      "r": 0,
+      "c": 0,
+      "g": 0
+     }
+    ],
+    "p": {
+     "rate": 2,
+     "glide": 0
+    }
+   }
+  },
+  {
+   "name": "Random S&H",
+   "d": {
+    "steps": [
+     {
+      "v": 0,
+      "r": 1,
+      "c": 0,
+      "g": 0
+     }
+    ],
+    "p": {
+     "rate": 6,
+     "glide": 0
+    }
+   }
+  },
+  {
+   "name": "Smooth Random",
+   "d": {
+    "steps": [
+     {
+      "v": 0,
+      "r": 1,
+      "c": 3,
+      "g": 1
+     }
+    ],
+    "p": {
+     "rate": 2
+    }
+   }
+  },
+  {
+   "name": "Arp 8 Steps",
+   "d": {
+    "steps": [
+     {
+      "v": 0,
+      "r": 0,
+      "c": 0,
+      "g": 0
+     },
+     {
+      "v": 0.25,
+      "r": 0,
+      "c": 0,
+      "g": 0
+     },
+     {
+      "v": 0.5833,
+      "r": 0,
+      "c": 0,
+      "g": 0
+     },
+     {
+      "v": 0.25,
+      "r": 0,
+      "c": 0,
+      "g": 0
+     },
+     {
+      "v": 1,
+      "r": 0,
+      "c": 0,
+      "g": 0
+     },
+     {
+      "v": 0.5833,
+      "r": 0,
+      "c": 0,
+      "g": 0
+     },
+     {
+      "v": 0.25,
+      "r": 0,
+      "c": 0,
+      "g": 0
+     },
+     {
+      "v": -1,
+      "r": 0,
+      "c": 0,
+      "g": 0
+     }
+    ],
+    "snap": 1,
+    "p": {
+     "rate": 4,
+     "glide": 0
+    }
+   }
+  }
+ ],
+ "eg": [
+  {
+   "name": "Default",
+   "d": {
+    "as": 0.3,
+    "ds": 0.5,
+    "rs": 0.5,
+    "p": {
+     "del": 0,
+     "att": 5,
+     "dec": 200,
+     "sus": 50,
+     "hold": 0,
+     "rel": 300,
+     "thr": -24
+    }
+   }
+  },
+  {
+   "name": "Fast",
+   "d": {
+    "as": 0.5,
+    "ds": 0.6,
+    "rs": 0.6,
+    "p": {
+     "del": 0,
+     "att": 1,
+     "dec": 60,
+     "sus": 20,
+     "hold": 0,
+     "rel": 80,
+     "thr": -30
+    }
+   }
+  },
+  {
+   "name": "Medium",
+   "d": {
+    "as": 0.2,
+    "ds": 0.4,
+    "rs": 0.4,
+    "p": {
+     "del": 0,
+     "att": 40,
+     "dec": 400,
+     "sus": 60,
+     "hold": 50,
+     "rel": 600,
+     "thr": -30
+    }
+   }
+  },
+  {
+   "name": "Long",
+   "d": {
+    "as": 0,
+    "ds": 0.2,
+    "rs": 0.2,
+    "p": {
+     "del": 0,
+     "att": 800,
+     "dec": 2000,
+     "sus": 70,
+     "hold": 200,
+     "rel": 3000,
+     "thr": -36
+    }
+   }
+  }
+ ],
+ "ef": [
+  {
+   "name": "Default",
+   "d": {
+    "mode": 0,
+    "p": {
+     "att": 5,
+     "rel": 150
+    }
+   }
+  },
+  {
+   "name": "Fast",
+   "d": {
+    "mode": 0,
+    "p": {
+     "att": 0.5,
+     "rel": 40
+    }
+   }
+  },
+  {
+   "name": "Slow",
+   "d": {
+    "mode": 0,
+    "p": {
+     "att": 80,
+     "rel": 1200
+    }
+   }
+  },
+  {
+   "name": "Transients",
+   "d": {
+    "mode": 1,
+    "p": {
+     "att": 0.3,
+     "rel": 60
+    }
+   }
+  }
+ ],
+ "midi": [
+  {
+   "name": "Velocity",
+   "d": {
+    "input": 0,
+    "curve": 0
+   }
+  },
+  {
+   "name": "Mod Wheel",
+   "d": {
+    "input": 3,
+    "curve": 0
+   }
+  },
+  {
+   "name": "Pitch Bend",
+   "d": {
+    "input": 2,
+    "curve": 0
+   }
+  },
+  {
+   "name": "Aftertouch",
+   "d": {
+    "input": 4,
+    "curve": 2
+   }
+  },
+  {
+   "name": "Sustain Pedal",
+   "d": {
+    "input": 5,
+    "cc": 64,
+    "curve": 0
+   }
+  }
+ ]
+}
