@@ -32,13 +32,22 @@ jobs:
         run: |
           ./build/Release/os_test
           ./build/Release/lp_test
-          ./build/Release/engine_test
+          ./build/Release/engine_test | tee engine.log
+          echo "::notice title=Test del motore::$(tail -1 engine.log) - $(grep 'INFO CPU' engine.log)"
 
       - name: Validazione Audio Unit (auval)
         continue-on-error: true
         run: |
           killall -9 AudioComponentRegistrar 2>/dev/null || true
-          auval -v aumf Str2 Clfx
+          mkdir -p ~/Library/Audio/Plug-Ins/Components
+          cp -R build/Satura_artefacts/Release/AU/SATURA.component ~/Library/Audio/Plug-Ins/Components/ 2>/dev/null || true
+          killall -9 AudioComponentRegistrar 2>/dev/null || true
+          if auval -v aumf Str2 Clfx > auval.log 2>&1; then
+            echo "::notice title=auval::AU VALIDATION SUCCEEDED"
+          else
+            echo "::warning title=auval::AU VALIDATION FAILED: $(grep -E 'FAIL|ERROR' auval.log | head -5 | tr '\n' ' ')"
+          fi
+          tail -40 auval.log
 
       - name: Firma ad-hoc e pacchetto
         run: |
